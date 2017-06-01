@@ -78,6 +78,7 @@ h1 {
 .site-imgs ul {
   margin-bottom: 24px;
   text-align: center;
+  font-weight: bold;
 }
 #left-img {
   background-image: url(../img/left-img.jpg);
@@ -93,6 +94,7 @@ h1 {
 .contact-phone {
   font-family: 'Poiret One', 'Helvetica', sans-serif;
   font-weight: normal;
+  font-style: italic;
 }
 .callout-wrapper {
   padding: 25px 0;
