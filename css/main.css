@@ -15,6 +15,10 @@
 }
 /*Header*/
 
+body {
+  width: 100%;
+}
+
 header {
   position: relative;
   background: url(../img/header-background.jpg) #ae8a4e;
